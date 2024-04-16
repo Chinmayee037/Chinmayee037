@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Chinmayee Sethy from Keonjhar, Odisha<br><br>- 🔭 I’m working as Frontend Developer at ESSPL<br>- 📚 I'm currently learning React .<br>- ⚡ In my free time I love to do painting and gardening</p>
+<p align="left">I'm Chinmayee Sethy from Keonjhar, Odisha<br><br>- 🔭 I’m working as Frontend Developer at ESSPL<br>- 📚 I'm currently learning React .<br>- ⚡ In my free time I love to do painting .</p>
 
 ###
 
