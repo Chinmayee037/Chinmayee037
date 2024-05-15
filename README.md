@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <img src="" height="40" alt="angular logo"  />
+  <img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" height="40" alt="angular logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
   <img width="12" />
